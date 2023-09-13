@@ -1,0 +1,12 @@
+canvas {
+    background-color: black;
+    display: block;
+    margin: 1em auto;
+}
+
+
+#outcome {
+    color: green;
+    text-align: center;
+    font-size: 4em;
+}
